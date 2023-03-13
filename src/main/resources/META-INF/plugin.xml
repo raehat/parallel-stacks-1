@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>org.example.my-first-plugin</id>
+    <name>My first</name>
+    <vendor email="myfirst@gmail.com" url="http://www.myfirst.com">MyFirst</vendor>
+
+    <description><![CDATA[
+        Description of My First Description of My First
+    ]]></description>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <toolWindow id="myToolWindow" anchor="right" factoryClass="com.example.myfirst.MyToolWindow"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

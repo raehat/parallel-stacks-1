@@ -1,0 +1,33 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – Main.kt [untitled.main]" opened="true" projectWorkspaceId="2MVdF7nfB9MofMm1grctqwAh0zK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-213.5744.223" />
+              <option name="buildTimestamp" value="1637997294630" />
+              <frame x="87" y="33" width="1750" height="980" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1678549331753" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="groups">
+      <list>
+        <ProjectGroup>
+          <option name="bottomGroup" value="true" />
+          <option name="name" value="Eclipse Projects" />
+          <option name="projects">
+            <list>
+              <option value="C:\Users\raeha\eclipse-workspace\First" />
+            </list>
+          </option>
+        </ProjectGroup>
+      </list>
+    </option>
+  </component>
+</application>

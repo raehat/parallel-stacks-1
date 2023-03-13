@@ -1,0 +1,30 @@
+{
+    "fileHashCode": 8501,
+    "sha256": "433212fd470dc0ea720e6ce51955fd486f0d5b028ed4248870cbf3b76ecbbd11",
+    "projectName": "untitled",
+    "dependencies": [
+        {
+            "coordinates": {
+                "groupId": "org.jetbrains.kotlin",
+                "artifactId": "kotlin-test"
+            },
+            "scope": "testImplementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "org.jetbrains.kotlinx",
+                "artifactId": "kotlinx-coroutines-core",
+                "version": "1.6.4"
+            },
+            "scope": "implementation"
+        },
+        {
+            "coordinates": {
+                "groupId": "org.jetbrains.kotlinx",
+                "artifactId": "kotlinx-coroutines-debug",
+                "version": "1.4.0"
+            },
+            "scope": "implementation"
+        }
+    ]
+}

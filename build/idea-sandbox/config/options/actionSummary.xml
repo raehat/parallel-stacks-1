@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Debug">
+      <i c="19" l="1678717181923" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="19" l="1678637188627" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1678549326678" />
+    </e>
+    <e n="MyFirst.Actions.MyFirstAction">
+      <i c="2" l="1678635703878" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1678695306262" />
+    </e>
+    <e n="Resume">
+      <i c="22" l="1678717165248" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1678717177891" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1678717192358" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="26" l="1678695329212" />
+    </e>
+    <e n="ViewBreakpoints">
+      <i c="1" l="1678660232747" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1678549322782" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="2" l="1678659428383" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="1" l="1678636876333" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="32" l="1678716065521" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="9" l="1678695048108" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="20" l="1678713651009" />
+    </e>
+  </component>
+</application>
