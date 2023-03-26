@@ -1,4 +1,3 @@
-package com.example.myfirst
+import kotlinx.coroutines.debug.CoroutinesBlockHoundIntegration
 
-class MyPlugin {
-}
+fun main() {}

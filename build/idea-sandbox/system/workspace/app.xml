@@ -1445,8 +1445,162 @@
               </dataSet>
             </plugins>
           </entry>
+          <entry key="dotnet:GodotSharp">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.rider.godot" pluginName="Godot Support" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:GodotSharpEditor">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.rider.godot" pluginName="Godot Support" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Machine.Specifications">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.machine.specifications" pluginName="Machine.Specifications for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.ApplicationInsights">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="fr.socolin.application-insights-debug-log-viewer" pluginName="Application Insights Debug Log Viewer" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Azure.Common">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Azure.Functions.Worker">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Azure.Storage.Blob">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Azure.Storage.Common">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Azure.WebJobs">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.EntityFrameworkCore">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="me.seclerp.rider.plugins.efcore" pluginName="Entity Framework Core UI" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.EntityFrameworkCore.Abstractions">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="me.seclerp.rider.plugins.efcore" pluginName="Entity Framework Core UI" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.EntityFrameworkCore.Relational">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="me.seclerp.rider.plugins.efcore" pluginName="Entity Framework Core UI" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.EntityFrameworkCore.Tools">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="me.seclerp.rider.plugins.efcore" pluginName="Entity Framework Core UI" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Extensions.Logging">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.StructuredLogging" pluginName="Structured Logging" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Identity.Client">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.Identity.Web">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Microsoft.NET.Sdk.Functions">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.azure" pluginName="Azure Toolkit for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Moq">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="Abc.MoqComplete.Rider" pluginName="MoqComplete" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:NLog">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.StructuredLogging" pluginName="Structured Logging" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:NSubstitute">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="nsubstitutecomplete-rider" pluginName="NSubstituteComplete" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:Serilog">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.intellij.resharper.StructuredLogging" pluginName="Structured Logging" />
+              </dataSet>
+            </plugins>
+          </entry>
+          <entry key="dotnet:TechTalk.SpecFlow">
+            <plugins>
+              <dataSet>
+                <plugin pluginId="com.settler.rider.specflow" pluginName="SpecFlow for Rider" />
+              </dataSet>
+            </plugins>
+          </entry>
         </featureMap>
-        <option name="lastUpdateTime" value="1678632841310" />
+        <option name="lastUpdateTime" value="1679835339945" />
       </features>
     </option>
     <option name="extensions">
@@ -14864,7 +15018,7 @@
             </plugins>
           </entry>
         </featureMap>
-        <option name="lastUpdateTime" value="1678632841140" />
+        <option name="lastUpdateTime" value="1679835339811" />
       </features>
     </option>
   </component>

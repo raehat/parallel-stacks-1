@@ -1,13 +1,37 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1679388098373" />
+    </e>
     <e n="Debug">
-      <i c="19" l="1678717181923" />
+      <i c="103" l="1679844313468" />
     </e>
     <e n="EditorBackSpace">
-      <i c="19" l="1678637188627" />
+      <i c="33" l="1679844303315" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="7" l="1679844331875" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1679844339447" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1679388098570" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1679412076446" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1679412071525" />
     </e>
     <e n="EditorPaste">
-      <i c="1" l="1678549326678" />
+      <i c="3" l="1679844341366" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1679156787412" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1679844244734" />
     </e>
     <e n="MyFirst.Actions.MyFirstAction">
       <i c="2" l="1678635703878" />
@@ -16,37 +40,52 @@
       <i c="1" l="1678695306262" />
     </e>
     <e n="Resume">
-      <i c="22" l="1678717165248" />
+      <i c="182" l="1679844344364" />
     </e>
     <e n="Run">
-      <i c="2" l="1678717177891" />
+      <i c="5" l="1679156648104" />
     </e>
     <e n="Stop">
-      <i c="4" l="1678717192358" />
+      <i c="11" l="1679844305130" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="26" l="1678695329212" />
     </e>
     <e n="ViewBreakpoints">
-      <i c="1" l="1678660232747" />
+      <i c="2" l="1679421916655" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="2" l="1678549322782" />
     </e>
+    <e n="XDebugger.MuteBreakpoints">
+      <i c="2" l="1679421914144" />
+    </e>
+    <e n="XDebugger.NewWatch">
+      <i c="9" l="1679844340476" />
+    </e>
+    <e n="XDebugger.RemoveWatch">
+      <i c="2" l="1679388100172" />
+    </e>
+    <e n="XDebugger.Watches.Presentation">
+      <i c="1" l="1679327753368" />
+    </e>
     <e n="com.intellij.diagnostic.IdeMessagePanel$4">
-      <i c="2" l="1678659428383" />
+      <i c="5" l="1679843872253" />
     </e>
     <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
-      <i c="1" l="1678636876333" />
+      <i c="8" l="1679760974504" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
-      <i c="32" l="1678716065521" />
+      <i c="65" l="1679768203325" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
-      <i c="9" l="1678695048108" />
+      <i c="16" l="1679844249088" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="20" l="1678713651009" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.frame.XWatchesViewImpl$2$1">
+      <i c="2" l="1679388094795" />
     </e>
   </component>
 </application>
